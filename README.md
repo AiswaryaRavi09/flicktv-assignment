@@ -1,4 +1,4 @@
-# Blinkit Money — Flutter Task
+# flicktv_flutter_task — Flutter Task
 
 **Candidate:** Aiswarya
 **Package:** `flicktv.aiswarya`
